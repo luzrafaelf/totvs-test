@@ -21,7 +21,7 @@ Foram utilizados Mockito e Junit 5 para testes unitários, cobrindo os serviços
 
 ### Flyway
 
-Sistema configurado para o banco de dados postgreSQL.
+Sistema configurado para o banco de dados postgreSQL. [Arquivo de Properties](https://github.com/luzrafaelf/totvs-test/blob/main/src/main/resources/application.properties)
 Ao iniciar a aplicação, o flyway irá criar automaticamente as tabelas.
 
 ### SQL com dados de teste para a aplicação
